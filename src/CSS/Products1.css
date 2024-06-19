@@ -1,0 +1,25 @@
+
+.divProducts{
+    /* height: 150px; */
+    width: 85%;
+    background-color: whitesmoke;
+    /* color: greenyellow; */
+    font-size:larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px auto;
+    border-radius: 5%;
+    /* padding-left: 20px; */
+
+}
+
+imageProducts{
+    height: 100px;
+    width: 100px;
+    border-radius: 50% ;
+}
